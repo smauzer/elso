@@ -1,1 +1,3 @@
-kedves Felhasznalo 
+<head>
+	<title>Cim<title>
+	kedves Felhasznalo 
