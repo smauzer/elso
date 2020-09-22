@@ -1,3 +1,5 @@
-<head>
-	<title>Cim<title>
-	kedves Felhasznalo 
+<title></title>
+</head>  
+     kedves Felhasznalo     
+</body>
+</html>
